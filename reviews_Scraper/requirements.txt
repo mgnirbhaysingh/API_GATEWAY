@@ -1,0 +1,27 @@
+# FastAPI and server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+
+# Database
+sqlalchemy>=2.0.0
+
+# HTTP requests
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Validation
+pydantic>=2.5.0
+
+# Async support (optional for future enhancements)
+aiohttp>=3.9.0
+httpx>=0.26.0
+
+# Type hints
+typing-extensions>=4.9.0
